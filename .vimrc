@@ -1,0 +1,11 @@
+syntax on
+set nu
+set tabstop=2
+set shiftwidth=2
+set expandtab
+set autoindent
+set nobackup
+set nowritebackup
+colorscheme molokai
+set t_Co=256
+set relativenumber
